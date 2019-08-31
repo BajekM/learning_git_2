@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    padding: 0
+}
+
+h1 {
+    color: red;
+    text-shadow: 1px 1px 1px black;
+    font-size: 40px;
+}
+
+h2 {   
+    color: blue;
+    font-size: 30px;
+    margin-bottom: 60px;
+}
+
+
