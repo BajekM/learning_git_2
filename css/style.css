@@ -4,15 +4,16 @@ body {
 }
 
 h1 {
-    color: red;
+    color: darkgreen;
     text-shadow: 1px 1px 1px black;
     font-size: 40px;
+    margin: 30px auto;
 }
 
 h2 {   
     color: blue;
     font-size: 30px;
-    margin-bottom: 60px;
+    margin: 40px auto;
 }
 
 
